@@ -1,0 +1,133 @@
+*{
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+    font-family: 'Dancing Script', cursive;
+    color: blanchedalmond;
+    
+    
+}
+
+    
+h1{
+    text-align: center;
+    font-weight: 200;
+    color: black;
+    padding: 30px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.song{
+   width: 100%;
+   min-height: 250px;
+   
+
+}
+.a{
+    background-image: url('Images/Love\ me\ Like\ you\ do.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+.a:hover{
+    z-index: 1;
+    transform: scale(1.25);
+    box-shadow: 0.25px 40px,rgba(0,0,0,0.5);
+}
+.b{
+    background-image: url('Images/I\ Love\ You.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+.b:hover{
+    z-index: 1;
+    transform: scale(1.25);
+    box-shadow: 0.25px 40px,rgba(0,0,0,0.5);
+}
+.c{
+    background-image: url('Images/Run\ to\ you.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   
+}
+.c:hover{
+    z-index: 1;
+    transform: scale(1.25);
+    box-shadow: 0.25px 40px,rgba(0,0,0,0.5);
+}
+.d{
+    background-image: url('Images/You\ are\ the\ reason.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+.d:hover{
+    z-index: 1;
+    transform: scale(1.25);
+    box-shadow: 0.25px 40px,rgba(0,0,0,0.5);
+}
+.e{
+    background-image: url('Images/Wonderlst.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+.e:hover{
+    z-index: 1;
+    transform: scale(1.25);
+    box-shadow: 0.25px 40px,rgba(0,0,0,0.5);
+}
+.f{
+    background-image: url('Images/lost\ in\ the\ wild.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+.f:hover{
+    z-index: 1;
+    transform: scale(1.25);
+    box-shadow: 0.25px 40px,rgba(0,0,0,0.5);
+}
+.g{
+    background-image: url('Images/Light\ of\ Seven.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+.g:hover{
+    z-index: 1;
+    transform: scale(1.25);
+    box-shadow: 0.25px 40px,rgba(0,0,0,0.5);
+}
+.h{
+    background-image: url('Images/Needle.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+.h:hover{
+    z-index: 1;
+    transform: scale(1.25);
+    box-shadow: 0.25px 40px,rgba(0,0,0,0.5);
+}
+.i{
+    background-image: url('Images/Rains\ of\ Castamare.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    transform: scale(0.98) translateY(5px);
+}
+.i:hover{
+    z-index: 1;
+    transform: scale(1.25);
+    box-shadow: 0.25px 40px,rgba(0,0,0,0.5);
+}
+
+
+
+
+
+
+
+
+
